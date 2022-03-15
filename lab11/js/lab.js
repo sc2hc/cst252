@@ -1,11 +1,22 @@
 
 /**
  * Author:   Henry
- * Created:   10/17/2021
+ * Created:   3/8/2022
  * public domain
  *
  *
  **/
 
-$("#output").html("<button id=my-button>Press me")
-$("#my-button").click(function(){$("#output").append("<button id=my-button>Press me")})
+$("#output").html("<button id=Lebutton>Clone")
+$("#Lebutton").click(function(){
+    $("#output").append("<button id=Lebutton>Clone");
+    $("#Lebutton").css("background-color", "#81FD0D");
+  }
+)
+
+$("#heh").html("<button id=ZAbutton>Flashy Big Red Button With a Skull On IT")
+$("#ZAbutton").click(function(){
+  alert("TACTICAL NUKE INCOMING!!!!!!");
+  $("#ZAbutton").css("background-color", "#FF0000");
+  }
+)
