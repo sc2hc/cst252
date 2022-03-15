@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica;
+    background-color: #222222;
+    padding: 100px;
+    font-size: 150%;
+    color: #ffffff;
+
+}
+head{
+    font-family: Helvetica;
+}
+
+.yo{
+  font-size: 10%;
+  color: #fab12f;
+}
+.meep{
+  font-size: 50%;
+  color: #a23bff;
+}
+.pain{
+  font-size: 500%;
+  color: #f0193f;
+}
+.shindemoii{
+  font-size: 200%;
+  color: #fff34f;
+}
