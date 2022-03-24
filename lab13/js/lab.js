@@ -1,4 +1,12 @@
 
+/**
+ * Author:   Henry
+ * Created:   3/15/2022
+ * public domain
+ *
+ *
+ **/
+
 function sorter(str) {
     len = str.length;
     mod = len % 5;
